@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(165, 155, 155);
+    font-family: monospace, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin:5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+
+button{
+    border-radius: 6px;
+    border-color: beige;
+    margin-top: 30px;
+}
+
+section{
+    text-align:  center;
+    
+}
